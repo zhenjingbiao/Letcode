@@ -1,3 +1,5 @@
+package practice;
+
 //题目：在二维数组中查询是否包含此数，二维数组从左到右递增，从上到下递增
 public class CodeInstance01 {
     public static void main(String[] args) {
